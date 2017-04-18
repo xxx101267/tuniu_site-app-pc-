@@ -1,0 +1,55 @@
+.indexTop_contLogin_bar,
+.indexTop_contR_order span,
+.indextitle_Cont_county .sprit,
+.indextitle_Cont_search_orange_allparduct .sprit,
+.indextitle_Cont_search_orange_searchlogo .sprit,
+.indextitle_Cont_search_Heighsearch .sprit,
+.indexnavCont .sprit,
+.indexnavCont_tips,
+.indexnavCont .indexnavCont_tips .sprit,
+.indexturnCont_L_list_dotted,
+.indexturnCont_L_active_list_dotted,
+.indexturnCont_L_active_list_cont a,
+.indexturnCont_L_active_list_title .sprit,
+.indexturnCont_M_up_list,
+.indexturnCont_M_up_list a,
+.indexturnCont_M_up_list_opcity,
+.indexturnCont_M_up,
+.indexturnCont_M_up a,
+.indexturnCont_R_down_hotcounty a,
+.indexcontL_sale_R .sprit,
+.greenline,
+.indexcontL_hotsale_cont_L_down_R_GO,
+.indexcontL_shortterm_right .sprit,
+.indexcontL_shortterm_cont_L_up .dotted,
+.indexcontL_shortterm_cont_L_up_cont_li .sprit,
+.indexcontR_Hotplace_top_right .right,
+.indexcontR_Hotplace_top_right .left,
+.tuniuHotel_HothotelContL_textline,
+.TNHotel_brankL .sprit,
+.ZZfocusLli_title .sprit,
+.ZZilandContL_num .sprit,
+.tuniuHotel_focus_Table_oldsearch .sprit,
+.TNhotel_tb_date1 .sprit,
+.TNhotel_tb_date2 .sprit{
+	overflow: hidden;
+}
+
+.indexturnCont_L_list{
+	vertical-align: top;
+}
+
+.indexturnCont_M_up_list_opcity,
+.indexcontL_sale_cont_list_a_right_opacity,
+.indexcontL_hotsale_cont_R_li_up_opacity,
+.indexcontL_shortterm_cont_R_li_img_opacity,
+.tuniuHotel_focus_upturn_liOpacity,
+.tuniuHotel_HothotelContL_opa,
+.TNHotel_recomenL_opa,
+.dangji_opa{
+	filter:alpha(opacity=50);
+}
+
+.indexcontL_sale_top{
+	zoom: 1;
+}
